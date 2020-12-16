@@ -22,7 +22,7 @@ Goste de artes, doces, música, cachorrinhos, gin-tônica e viajar. :art::chocol
 - Teimosa;
 - Zelosa;
 
-Por aqui incluo projetos e estudos em código. Para saber mais da meu histórico profissional você pode me encontrar no [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stephaniedias)](https://www.linkedin.com/in/stephaniedias)
+Por aqui incluo projetos e estudos em código. Para saber mais do meu histórico profissional você pode me encontrar no [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stephaniedias)](https://www.linkedin.com/in/stephaniedias)
 
 See ya! :wink:
 ______________________________________________________________________________
